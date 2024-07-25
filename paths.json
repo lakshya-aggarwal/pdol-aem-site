@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/pdol-aem/:/",
+    "/content/pdol-aem/configuration:/.helix/config.json"
   ]
 }
